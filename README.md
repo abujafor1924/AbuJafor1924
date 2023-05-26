@@ -9,10 +9,10 @@ I'm Abu Jafor, a dedicated web developer passionate about crafting engaging and 
 
 Skills: HTML|CSS|BOOTSTRAP |TELWIND |REACT BOOTSTRAP |REACT |JAVASCRIPT |EXPRESS JS|CHAT GPT| GOOGLE BIRD
 
-- 🔭 I’m currently working on Programin Hero(student) 
-- 🌱 I’m currently learning Javascript  
-- 💬 Ask me about Mern Web Development  
-- 📫 How to reach me: soyad.abu.jafor@gmail.com 
+ ✔ I’m currently working on Programin Hero(student) 
+ ✔ I’m currently learning Javascript  
+ ✔ Ask me about Mern Web Development  
+ ✔ How to reach me: soyad.abu.jafor@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abujafor1924)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/abu-jafor-575726278//)  
