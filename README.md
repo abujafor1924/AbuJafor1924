@@ -1,15 +1,27 @@
-### Hi there 👋
+### Hi there 👋, I'm Abu Jafor
+#### Web Developer
+![Web Developer](https://media.licdn.com/dms/image/D4E03AQGS_D8aVq79CA/profile-displayphoto-shrink_800_800/0/1685072263036?e=1690416000&v=beta&t=UCebNuPEbySdFQNW-G8tSsVhTU0A1KyxNR848djpVME)
+
+I'm Abu Jafor, a dedicated web developer passionate about crafting engaging and user-friendly online experiences. With expertise in frontend technologies and a knack for problem-solving, I strive to create impactful websites that seamlessly blend aesthetics with functionality
+
+Skills: HTML|CSS|BOOTSTRAP |TELWIND |REACT BOOTSTRAP |REACT |JAVASCRIPT |EXPRESS JS|CHAT GPT| GOOGLE BIRD
+
+- 🔭 I’m currently working on Programin Hero(student) 
+- 🌱 I’m currently learning Javascript  
+- 💬 Ask me about Mern Web Development  
+- 📫 How to reach me: soyad.abu.jafor@gmail.com 
 
 
-**abujafor1924/AbuJafor1924** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/abujafor1924)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/abu-jafor-575726278//)  
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/abujafor1924)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/abujafor1924&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/abujafor1924)  
+
+![GitHub metrics](https://metrics.lecoq.io/https://github.com/abujafor1924)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/abujafor1924)  
+
+![Profile views](https://gpvc.arturio.dev/https://github.com/abujafor1924)  
