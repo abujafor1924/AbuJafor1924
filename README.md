@@ -2,7 +2,7 @@
 ![Web Developer](https://media.licdn.com/dms/image/D4E03AQGS_D8aVq79CA/profile-displayphoto-shrink_800_800/0/1685072263036?e=1690416000&v=beta&t=UCebNuPEbySdFQNW-G8tSsVhTU0A1KyxNR848djpVME)
 
 ### Hi there 👋, I'm Abu Jafor
-#### Web Developer
+# Junior Web Developer || MERN
 
 
 I'm Abu Jafor, a dedicated web developer passionate about crafting engaging and user-friendly online experiences. With expertise in frontend technologies and a knack for problem-solving, I strive to create impactful websites that seamlessly blend aesthetics with functionality
