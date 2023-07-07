@@ -9,7 +9,7 @@ I'm Abu Jafor, a dedicated web developer passionate about crafting engaging and 
 
 Skills: HTML|CSS|BOOTSTRAP |TELWIND |REACT BOOTSTRAP |REACT |JAVASCRIPT |EXPRESS JS|CHAT GPT| GOOGLE BIRD
 
- ✔ I’m currently working on Programin Hero(student) 
+ ✔ I’m currently working on Programming Hero(student) 
  ✔ I’m currently learning Javascript  
  ✔ Ask me about Mern Web Development  
  ✔ How to reach me: soyad.abu.jafor@gmail.com 
