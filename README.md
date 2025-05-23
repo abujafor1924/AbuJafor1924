@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/WzFbh5rJ/Add-a-heading-1.png" alt="Web Developer Banner" style="width: 100%;" />
+<img src="https://i.postimg.cc/VNCxr2Hw/Add-a-heading-2.png" alt="Web Developer Banner" style="width: 100%;" />
 
 
 # 👋 Hi there, I'm Abu Jafor  
