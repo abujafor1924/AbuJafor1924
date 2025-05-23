@@ -1,5 +1,5 @@
 ![Web Developer]
-<p align="center">
+<p align="center" width=100%>
   <img src="https://i.postimg.cc/WzFbh5rJ/Add-a-heading-1.png" alt="Web Developer" width="300"/>
 </p>
 
