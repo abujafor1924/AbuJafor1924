@@ -1,4 +1,7 @@
-![Web Developer]([https://ibb.co/vCYbWP33](https://i.postimg.cc/WzFbh5rJ/Add-a-heading-1.png))
+![Web Developer]
+<p align="center">
+  <img src="https://i.postimg.cc/WzFbh5rJ/Add-a-heading-1.png" alt="Web Developer" width="300"/>
+</p>
 
 # 👋 Hi there, I'm Abu Jafor  
 ### 🧑‍💻 Junior Web Developer | React & Django Specialist
