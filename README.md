@@ -1,4 +1,4 @@
-![Web Developer](https://i.ibb.co/99HKkFr/profile.jpg)
+![Web Developer](https://ibb.co/vCYbWP33)
 
 # 👋 Hi there, I'm Abu Jafor  
 ### 🧑‍💻 Junior Web Developer | React & Django Specialist
