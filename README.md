@@ -22,11 +22,9 @@ I'm Abu Jafor, a passionate full-stack web developer focused on building modern,
 
 ## 📈 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abujafor1924&layout=compact&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abujafor1924&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abujafor1924&layout=compact&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abujafor1924&show_icons=true&theme=tokyonight)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=abujafor1924&theme=tokyonight)
-![Metrics](https://metrics.lecoq.io/abujafor1924)
-![Profile Views](https://gpvc.arturio.dev/abujafor1924)
 
 ---
 
